@@ -2,15 +2,11 @@
 
 ## I'm a Developer, Tester, and Student!
 
-- 🔭 I just finished my first web page!
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Get involved in many projects!
+- 👯 I’m always looking to collaborate with my teammates and other developers
+- 🥅 2024 Goals: Get involved in many projects!
 - ⚡ Fun fact: I love to play a lot of chess and play guitar / piano
 
 ### Connect with me:
-
-
 
 [<img align="left" alt="JoaquinLillo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
