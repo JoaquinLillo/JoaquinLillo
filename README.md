@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-I'm a multidisciplinary Software Engineer with 3+ years of experience in **End-to-End** development, technical leadership, and QA Automation in complex production environments.
+I'm a multidisciplinary Software Engineer with 4+ years of experience in **End-to-End** development, technical leadership, and QA Automation in complex production environments.
 
 Currently, as a **QA Automation Lead at Ensolvers for Hyros AIR** (an innovative AI Marketing platform developed E2E by my team), I specialize in the **integration, interaction, usage, and testing of AI-powered systems**. My role covers everything from validating non-deterministic behaviors to implementing robust testing pipelines. I've been involved in the QA of **"AIR"**, a Langflow-like visual dashboard for creating LLM-driven Marketing Flows, and extended Notion as a TCMS using SDKs and LLMs (Ollama/API).
 
